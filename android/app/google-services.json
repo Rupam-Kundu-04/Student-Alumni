@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "380250796544",
+    "firebase_url": "https://schoolproject-be305-default-rtdb.firebaseio.com",
+    "project_id": "schoolproject-be305",
+    "storage_bucket": "schoolproject-be305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380250796544:android:8219b93e8f87ba02861ee5",
+        "android_client_info": {
+          "package_name": "com.example.school_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxpuaTJasM5ZZEZlN-e9GZKL0LUMfA4u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380250796544:android:969ea739e1e4cd1a861ee5",
+        "android_client_info": {
+          "package_name": "com.example.student_project_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxpuaTJasM5ZZEZlN-e9GZKL0LUMfA4u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
